@@ -1,0 +1,1 @@
+# parse-regular-expresion-to-truth-table
